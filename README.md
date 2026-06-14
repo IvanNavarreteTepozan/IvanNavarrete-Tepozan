@@ -1,3 +1,4 @@
+<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 <h1 align="center"><b>Hello, I'm Iván Navarrete Tepozán</b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 I am a graduate in **Applied Mathematics and Computing (MAC)**. I consider myself someone who is still experimenting and growing in the world of mathematics and computing, but with a strong conviction: I am always looking for new technologies, challenges, and new things to learn.
@@ -56,3 +57,5 @@ Contact me at: <a href="mailto:12ivanavarrete@gmail.com">12ivanavarrete@gmail.co
 
 Credits: [Iván Navarrete](https://github.com/IvanNavarreteTepozan)<br/>
 Last Edited on: 14/06/2026
+
+<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/banner-footer.gif">
