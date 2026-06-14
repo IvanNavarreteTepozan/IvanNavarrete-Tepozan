@@ -2,14 +2,14 @@
 
 I am a graduate in **Applied Mathematics and Computing (MAC)**. I consider myself someone who is still experimenting and growing in the world of mathematics and computing, but with a strong conviction: I am always looking for new technologies, challenges, and new things to learn.
 
-Contact me at: <a href="mailto:your_email@gmail.com">your_email@gmail.com</a>  
+Contact me at: <a href="12ivanavarrete@gmail.com">12ivanavarrete@gmail.com</a>  
 
 <h2>
   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3l0cWxnMHdtc2lsYXV5bG9zMmQ5ZHgya3Jrdjc1Zng0a3NlbnRkbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/pGnNhScvs9Udt1WSkA/giphy.gif" width="25px">
   Education
 </h2>
 
-**University** *(Replace with your institution, e.g., FES Acatlán - UNAM)* <br/>
+**University** *(Facultad  de Estudios Superiores  Acátlan Acatlán - UNAM)* <br/>
 🎓 Applied Mathematics and Computing (MAC)<br/>
 ✅ Graduated. <br/>
 
