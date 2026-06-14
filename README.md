@@ -2,14 +2,14 @@
 
 I am a graduate in **Applied Mathematics and Computing (MAC)**. I consider myself someone who is still experimenting and growing in the world of mathematics and computing, but with a strong conviction: I am always looking for new technologies, challenges, and new things to learn.
 
-Contact me at: <a href="12ivanavarrete@gmail.com">12ivanavarrete@gmail.com</a>  
+Contact me at: <a href="mailto:12ivanavarrete@gmail.com">12ivanavarrete@gmail.com</a>  
 
 <h2>
   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3l0cWxnMHdtc2lsYXV5bG9zMmQ5ZHgya3Jrdjc1Zng0a3NlbnRkbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/pGnNhScvs9Udt1WSkA/giphy.gif" width="25px">
   Education
 </h2>
 
-**University** *(Facultad  de Estudios Superiores  Acátlan Acatlán - UNAM)* <br/>
+**Facultad de Estudios Superiores Acatlán - UNAM** <br/>
 🎓 Applied Mathematics and Computing (MAC)<br/>
 ✅ Graduated. <br/>
 
@@ -42,20 +42,20 @@ Contact me at: <a href="12ivanavarrete@gmail.com">12ivanavarrete@gmail.com</a>
 
 <h4>Socials & Contact</h4>
 <p>
-<a href="https://github.com/YourGitHubUser" target="_blank"><img alt="github"  src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
-<a href="http://linkedin.com/in/YourLinkedInUser" target="_blank"><img  alt="linkedin"  src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-<a href="mailto:your_email@gmail.com" target="_blank"><img  alt="gmail"  src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<a href="https://github.com/IvanNavarreteTepozan/" target="_blank"><img alt="github"  src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/ivan-navarrete-tepozan-819ab72ab" target="_blank"><img  alt="linkedin"  src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="mailto:12ivanavarrete@gmail.com" target="_blank"><img  alt="gmail"  src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </p>
 
 <h2><img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="25px"> GitHub Stats:</h2>  
 
 <div align="center">
- <img src="https://github-readme-stats.vercel.app/api?username=YourGitHubUser&show_icons=true&theme=tokyonight&locale=en&custom_title=Ivan's%20Stats" height="250"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YourGitHubUser&theme=material-palenight" height="250"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUser&layout=compact&theme=tokyonight&hide_border=false" height="250" />
+ <img src="https://github-readme-stats.vercel.app/api?username=IvanNavarreteTepozan&show_icons=true&theme=tokyonight&locale=en&custom_title=Ivan's%20Stats" height="250"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=IvanNavarreteTepozan&theme=material-palenight" height="250"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IvanNavarreteTepozan&layout=compact&theme=tokyonight&hide_border=false" height="250" />
 </div>
 
 ---
 
-Credits: [Iván Navarrete](https://github.com/YourGitHubUser)<br/>
+Credits: [Iván Navarrete](https://github.com/IvanNavarreteTepozan)<br/>
 Last Edited on: 14/06/2026
