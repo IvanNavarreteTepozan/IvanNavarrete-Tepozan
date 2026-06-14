@@ -37,7 +37,15 @@ Contact me at: <a href="mailto:12ivanavarrete@gmail.com">12ivanavarrete@gmail.co
 <span>
   <img src="https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=61DAFB">
 </span>  
-
+<h4>☁️ Cloud & AI Experience</h4>
+<p>
+  I have experience working with cloud infrastructure and artificial intelligence tools. My stack includes working with <b>AWS</b>, <b>Google Cloud</b>, and <b>Google AI Studio</b>. 
+</p>
+<span>
+  <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white">
+  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white">
+  <img src="https://img.shields.io/badge/Google_AI_Studio-4285F4?style=for-the-badge&logo=google&logoColor=white">
+</span>
 <h4>Socials & Contact</h4>
 <p>
 <a href="https://github.com/IvanNavarreteTepozan/" target="_blank"><img alt="github"  src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
