@@ -12,7 +12,7 @@ Contact me at: <a href="mailto:12ivanavarrete@gmail.com">12ivanavarrete@gmail.co
 
 **Facultad de Estudios Superiores Acatlán - UNAM** <br/>
 🎓 Applied Mathematics and Computing (MAC)<br/>
-✅ Graduated. <br/>
+⏳ Studies completed in MAC, degree pending. <br/>
 
 <h2><img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="25px"> Skills</h2>
 
