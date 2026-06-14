@@ -35,9 +35,6 @@ Contact me at: <a href="mailto:12ivanavarrete@gmail.com">12ivanavarrete@gmail.co
 <h4>Technologies</h4>
 <span>
   <img src="https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=61DAFB">
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white">
-  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white">
-  <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white">
 </span>  
 
 <h4>Socials & Contact</h4>
